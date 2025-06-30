@@ -39,7 +39,7 @@ VS Code ist ein kostenloser Quelltext-Editor von Microsoft und kann unter folgen
 ## 3. Installation & Konfiguration von LaTeX Workshop
 `LaTeX Workshop` ist eine Erweiterung in VS Code.
 
-<img src="images/LTEX_Step_1.png" width="50%" height="auto" alt="Installation der LaTeX-Erweiterung unter VS Code." title="Screenshot der Extensions in VS Code mit dem Suchbegriff LaTeX Workshop."></br>
+<img src="images/LTEX_Step_1.png" width="80%" height="auto" alt="Installation der LaTeX-Erweiterung unter VS Code." title="Screenshot der Extensions in VS Code mit dem Suchbegriff LaTeX Workshop."></br>
 *LaTeX Workshop installieren*
 
 1. `Extensions` öffnen
@@ -48,7 +48,7 @@ VS Code ist ein kostenloser Quelltext-Editor von Microsoft und kann unter folgen
 
 Anschließend mit `Shift + Strg + P` (Windows) oder `Shift + Cmd + P` (macOS) das Befehlsmenü öffnen. Hier `Open User Settings JSON` eingeben und den ersten Eintrag, wie nachfolgend dargestellt, öffnen.
 
-<img src="images/LTEX_Step_2.png" width="50%" height="auto" alt="LaTeX-Benutzereinstellungen JSON unter VS Code mithilfe des Befehlsmenü öffnen." title="Screenshot des Befehlsmenüs von VS Code mit dem Suchbegriff Open User Settings JSON."></br>
+<img src="images/LTEX_Step_2.png" width="80%" height="auto" alt="LaTeX-Benutzereinstellungen JSON unter VS Code mithilfe des Befehlsmenü öffnen." title="Screenshot des Befehlsmenüs von VS Code mit dem Suchbegriff Open User Settings JSON."></br>
 *LaTeX Benutzereinstellungen festlegen*
 
 In diese JSON-Datei nun beide folgenden Schnipsel innerhalb der Klammern `{}` der Datei einfügen.
@@ -158,17 +158,17 @@ Standardmäßig ist keine Grammatikprüfung für Markup-Sprachen integriert. Aus
 Zum Installieren von `LTeX` gehen Sie wie folgt vor.
 
 
-<img src="images/LTEX_Step_3.png" width="50%" height="auto" alt="Installation der LTeX-Erweiterung unter VS Code." title="Screenshot der Extensions in VS Code mit dem Suchbegriff LTeX."></br>
+<img src="images/LTEX_Step_3.png" width="80%" height="auto" alt="Installation der LTeX-Erweiterung unter VS Code." title="Screenshot der Extensions in VS Code mit dem Suchbegriff LTeX."></br>
 *LTeX installieren*
 
 Mit dem Zahnrad-Symbol neben der Erweiterung können nun die Einstellungen von `LTeX` geöffnet werden.
 
-<img src="images/LTEX_Step_4.png" width="50%" height="auto" alt="Installation der LTeX Erweiterung unter VS Code." title="Screenshot der Extensions in VS Code mit dem Kontextmenü von LTeX"></br>
+<img src="images/LTEX_Step_4.png" width="80%" height="auto" alt="Installation der LTeX Erweiterung unter VS Code." title="Screenshot der Extensions in VS Code mit dem Kontextmenü von LTeX"></br>
 *LTeX-Einstellungen öffnen*
 
 Es gibt verschiedene Einstellungsmöglichkeiten, wobei die wichtigste im unteren Bereich der Einstellungen zu finden ist.
 
-<img src="images/LTEX_Step_5.png" width="50%" height="auto" alt="Installation der LTeX Erweiterung unter VS Code." title="Screenshot der Einstellungen von LTeX im Abschnitt Ltex: Language."></br>
+<img src="images/LTEX_Step_5.png" width="80%" height="auto" alt="Installation der LTeX Erweiterung unter VS Code." title="Screenshot der Einstellungen von LTeX im Abschnitt Ltex: Language."></br>
 *LTeX Sprache festlegen*
 
 Hier kann die gewünschte Sprache ausgewählt werden. Die gewählte Sprache gilt für alle Dokumente, die in VS Code geöffnet werden. Wenn Sie in einer anderen Sprache schreiben möchten, muss diese in den Einstellungen umgestellt werden.
@@ -190,7 +190,7 @@ Die Verwendung der Literatursoftware ermöglicht eine schnelle Erfassung wissens
 
 Dazu die gewünschte Literatur z. B. auf [ACM](https://dl.acm.org) oder [IEEE Xplore](https://ieeexplore.ieee.org/Xplore/home.jsp) öffnen und im oberen linken Bereich `Cite This`auswählen. Anschließend öffnet sich ein Pop-Up, in dem das gewünschte Format ausgewählt werden kann.
 
-<img src="images/BibDesk_Step_1.png" width="50%" height="auto" alt="Herunterladen der BibTeX-Datei im IEEE Xplore." title="Screenshot der IEEE Xplore Website mit geöffnetem 'Cite This' Pop-Up."><br>
+<img src="images/BibDesk_Step_1.png" width="80%" height="auto" alt="Herunterladen der BibTeX-Datei im IEEE Xplore." title="Screenshot der IEEE Xplore Website mit geöffnetem 'Cite This' Pop-Up."><br>
 *BibTeX downloaden*
 
 1. `Cite This` auswählen
@@ -201,7 +201,7 @@ Unter der Nutzung von BibDesk auf MacOS kann nun die `BibTex`-Version herunterge
 
 Nach der Integration der Quelle kann das zugehörige PDF per "Drag and Drop" mit der Quelle verknüpft werden. Dazu das PDF in das markierte Vorschaufenster in der nachfolgenden Abbildung ziehen. Hierbei ist zu beachten, dass sich dabei der Speicherort der PDF nicht verändert.
 
-<img src="images/BibDesk_Step_2.png" width="50%" height="auto" alt="Quelle in BibDesik mit Markierung des Vorschaufensters zur Ablage der PDF." title="Screenshot einer BibDesk Quelle mit markiertem Vorschaufenster zur Ablage der PDF."><br>
+<img src="images/BibDesk_Step_2.png" width="80%" height="auto" alt="Quelle in BibDesik mit Markierung des Vorschaufensters zur Ablage der PDF." title="Screenshot einer BibDesk Quelle mit markiertem Vorschaufenster zur Ablage der PDF."><br>
 *PDF in BibDesk einbinden*
 
 <div id = 'id-section6_2' />
