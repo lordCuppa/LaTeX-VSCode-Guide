@@ -18,7 +18,7 @@
 <div id = 'id-section0' />
 
 ## Einleitung
-Diese Anleitung basiert auf einem GitHub-Beitrag von Jia Jia und wurde um mehrere Punkte erweitert. Die einzelnen Schritte wurden unter MacOS durchgeführt, wodurch Abweichungen zu anderen Betriebssystemen vorhanden sein können.
+Diese Anleitung basiert auf einem GitHub-Beitrag von Jia Jia und wurde um mehrere Punkte erweitert. Die einzelnen Schritte erfolgten unter MacOS, wodurch Abweichungen zu anderen Betriebssystemen vorhanden sein können.
 
 <div id='id-section1'/>
 
