@@ -3,22 +3,27 @@
 **Version**: 1.0
 
 ## Inhaltsverzeichnis
-- [Einleitung](#id-section0)
-- [1. Download & Installation von TeX Live](#id-section1)
-- [2. Download & Installation von VS Code](#id-section2)
-- [3. Installation & Konfiguration von LaTeX Workshop](#id-section3)
-- [4. Installation einer Grammatikprüfung](#id-section4)
-- [5. Schreiben & Kompilieren](#id-section5)
-- [6. Optional: Literatursoftware](#id-section6)
-    - [Verwendung MacOS](#id-section6_1)
-    - [Verwendung unter Windows und Linux](#id-section6_2)
-- [7. Optional: GitHub Repository](#id-section7)
-- [Quellenangaben](#id-section-reference) 
+- [Installationsanleitung für LaTeX in VS Code](#installationsanleitung-für-latex-in-vs-code)
+  - [Inhaltsverzeichnis](#inhaltsverzeichnis)
+  - [Einleitung](#einleitung)
+  - [1. Download \& Installation von TeX Live](#1-download--installation-von-tex-live)
+  - [2. Download \& Installation von VS Code](#2-download--installation-von-vs-code)
+  - [3. Installation \& Konfiguration von LaTeX Workshop](#3-installation--konfiguration-von-latex-workshop)
+  - [4. Installation einer Grammatikprüfung](#4-installation-einer-grammatikprüfung)
+  - [5. Schreiben \& Kompilieren](#5-schreiben--kompilieren)
+  - [6. Optional: Literatursoftware](#6-optional-literatursoftware)
+    - [Verwendung unter MacOs](#verwendung-unter-macos)
+    - [Verwendung unter Windows und Linux](#verwendung-unter-windows-und-linux)
+  - [7. Optional: GitHub Repository](#7-optional-github-repository)
+  - [Quellenangaben](#quellenangaben)
 
 <div id = 'id-section0' />
 
 ## Einleitung
-Diese Anleitung basiert auf einem GitHub-Beitrag von Jia Jia und wurde um mehrere Punkte erweitert. Die einzelnen Schritte erfolgten unter MacOS, wodurch Abweichungen zu anderen Betriebssystemen vorhanden sein können.
+Diese Anleitung basiert auf einem Beitrag von Jia Jia und wurde um mehrere Punkte erweitert. Die einzelnen Schritte erfolgten unter MacOS, wodurch Abweichungen zu anderen Betriebssystemen vorhanden sein können. Nachfolgend eine Vorschau nach erfolgreicher Einrichtung in VS Code.
+
+<img src="images/Final_Screen.png" width="80%" height="auto" alt="VS Code Anischt nach erfolgreicher Einrichtung." title="Screenshot von VS Code nach erfolgreicher Einrichtung."></br>
+*Vorschau nach erfolgreicher Einrichtung*
 
 <div id='id-section1'/>
 
