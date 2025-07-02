@@ -181,7 +181,7 @@ Hier kann die gewünschte Sprache ausgewählt werden. Die gewählte Sprache gilt
 <div id='id-section5'/>
 
 ## 5. Schreiben & Kompilieren
-Jetzt kann eine `.tex`-Datei geöffnet oder eine neue erstellt werden. Zum Kompilieren der Datei, falls dies nicht bereits automatisch geschieht, verwenden Sie `Strg + Alt + B` (Windows) oder `Option + Cmd + B` (macOS). Zudem befindet sich in der rechten oberen Ecke eine Schaltfläche zur Vorschau der PDF-Datei.
+Jetzt kann eine `.tex`-Datei geöffnet oder eine neue erstellt werden. Damit der Explorer in VS Code (auf der linken Seite) alle dazugehörigen Dateien anzeigt, muss der Ordner und nicht die einzelne Date mit VS Code geöffnet werden. Zum Kompilieren der Datei, falls dies nicht bereits automatisch geschieht, verwenden Sie `Strg + Alt + B` (Windows) oder `Option + Cmd + B` (macOS). Zudem befindet sich in der rechten oberen Ecke eine Schaltfläche zur Vorschau der PDF-Datei.
 
 <div id = 'id-section6' />
 
