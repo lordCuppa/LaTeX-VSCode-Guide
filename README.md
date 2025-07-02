@@ -1,6 +1,4 @@
 # Installationsanleitung für LaTeX in VS Code
-**Erstellungsdatum**: 28. Juni 2025<br>
-**Version**: 1.0
 
 ## Inhaltsverzeichnis
 - [Installationsanleitung für LaTeX in VS Code](#installationsanleitung-für-latex-in-vs-code)
