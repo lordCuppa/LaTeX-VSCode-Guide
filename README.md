@@ -1,4 +1,5 @@
 # Installationsanleitung für LaTeX in VS Code
+**Achtung: Aktuell bestehen Probleme beim Verwenden von Zitaten!**
 
 ## Inhaltsverzeichnis
 - [Installationsanleitung für LaTeX in VS Code](#installationsanleitung-für-latex-in-vs-code)
