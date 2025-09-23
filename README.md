@@ -1,5 +1,4 @@
 # Installationsanleitung für LaTeX in VS Code
-**Achtung: Aktuell bestehen Probleme beim Verwenden von Zitaten!**
 
 ## Inhaltsverzeichnis
 - [Installationsanleitung für LaTeX in VS Code](#installationsanleitung-für-latex-in-vs-code)
@@ -55,9 +54,9 @@ Anschließend mit `Shift + Strg + P` (Windows) oder `Shift + Cmd + P` (macOS) da
 <img src="images/LTEX_Step_2.png" width="80%" height="auto" alt="LaTeX-Benutzereinstellungen JSON unter VS Code mithilfe des Befehlsmenü öffnen." title="Screenshot des Befehlsmenüs von VS Code mit dem Suchbegriff Open User Settings JSON."></br>
 *LaTeX Benutzereinstellungen festlegen*
 
-In diese JSON-Datei nun beide folgenden Schnipsel innerhalb der Klammern `{}` der Datei einfügen.
+In diese JSON-Datei nun folgenden Schnipsel innerhalb der Klammern `{}` der Datei einfügen.
 
-<details><summary>JSON 1</summary>
+<details><summary>settings.json</summary>
 
 ```
 "latex-workshop.latex.tools": [
